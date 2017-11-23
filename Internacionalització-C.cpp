@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <string.h>
+#include <libintl.h>
+
 
 #define F 10
 #define C 20
@@ -31,7 +33,7 @@ int f_i, c_i; // fila inicial, columna inicial
 }
 
 void llegir_lab (char lab[F][C]) {
-	printf ("Introdueix un laberint de %ix%i\n", F, C);
+	printf (gettext("Introdueix un laberint de %ix%i\n"), F, C);
 	llegir (lab);
 }
 

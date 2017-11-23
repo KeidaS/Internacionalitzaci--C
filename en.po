@@ -1,0 +1,53 @@
+# English translations for anb package.
+# Copyright (C) 2017 THE anb'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the anb package.
+# Adria Navarro Bosque <anb1@localhost>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anb 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-11-23 16:55+0100\n"
+"PO-Revision-Date: 2017-11-23 17:05+0100\n"
+"Last-Translator: Adria Navarro Bosque <anb1@localhost>\n"
+"Language-Team: English\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: Internacionalització-C.cpp:36
+#, c-format
+msgid "Introdueix un laberint de %ix%i\n"
+msgstr "Introduce a maze of %ix%i\n"
+
+#: Internacionalització-C.cpp:71
+#, c-format
+msgid "Introdueix les coordenades d'inici\n"
+msgstr "Introduce the start coordinates\n"
+
+#: Internacionalització-C.cpp:78
+#, c-format
+msgid "Introdueix les passes del recorregut\n"
+msgstr "Introduce the steps of the path\n"
+
+#: Internacionalització-C.cpp:151
+#, c-format
+msgid "Coordenades d'inici: (%i , %i )\n"
+msgstr "Start coordinates: (%i , %i )\n"
+
+#: Internacionalització-C.cpp:152
+#, c-format
+msgid "Passes del recorregut: %s\n"
+msgstr "Steps of the path: %s\n"
+
+#: Internacionalització-C.cpp:155
+#, c-format
+msgid "La soluci al laberint NO es correcta\n"
+msgstr "The solution of the maze is NOT correct\n"
+
+#: Internacionalització-C.cpp:162
+#, c-format
+msgid "La soluci al laberint es correcta!\n"
+msgstr "The solution of the maze is correct!\n"
